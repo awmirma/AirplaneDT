@@ -15,7 +15,7 @@ This project focuses on predicting passenger satisfaction with airline services 
 - NumPy
 - Pandas
 - Matplotlib (for visualization)
-- 
+  
 ## Usage
 
 1. **Install Dependencies:**
@@ -25,16 +25,16 @@ This project focuses on predicting passenger satisfaction with airline services 
    ```bash
    python main.py
 3. **Results:**
-   -The decision tree structure and relevant information will be printed.
-   -Accuracy and other metrics will be displayed based on the testing dataset.
+   - The decision tree structure and relevant information will be printed.
+   - Accuracy and other metrics will be displayed based on the testing dataset.
 
 ## Customization
-  -Adjust hyperparameters and settings in the DecisionTree class in decision_tree.py.
-  -Explore different metrics and features for potential improvements.
+  - Adjust hyperparameters and settings in the DecisionTree class in decision_tree.py.
+  - Explore different metrics and features for potential improvements.
 
 ## Data
-  -The dataset (airplane_data.csv) contains columns such as Gender, Customer Type, Age, Flight Distance, and others.
-  -The target variable is 'satisfaction' indicating passenger satisfaction.
+  - The dataset (airplane_data.csv) contains columns such as Gender, Customer Type, Age, Flight Distance, and others.
+  - The target variable is 'satisfaction' indicating passenger satisfaction.
 
 ## Acknowledgments
-  -This project was inspired by the need to predict and understand factors affecting passenger satisfaction in the aviation industry.
+  - This project was inspired by the need to predict and understand factors affecting passenger satisfaction in the aviation industry.
