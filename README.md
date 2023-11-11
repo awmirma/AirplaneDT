@@ -29,7 +29,7 @@ This project focuses on predicting passenger satisfaction with airline services 
    - Accuracy and other metrics will be displayed based on the testing dataset.
 
 ## Customization
-  - Adjust hyperparameters and settings in the DecisionTree class in decision_tree.py.
+  - Adjust hyperparameters and settings in the DecisionTree class in DT2.py.
   - Explore different metrics and features for potential improvements.
 
 ## Data
