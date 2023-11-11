@@ -6,7 +6,7 @@ This project focuses on predicting passenger satisfaction with airline services 
 
 ## Files and Structure
 
-- **`decision_tree.py`**: Contains the implementation of the Decision Tree algorithm.
+- **`DT2.py`**: Contains the implementation of the Decision Tree algorithm.
 - **`airplane_data.csv`**: The dataset used for training and testing the model.
 
 ## Dependencies
@@ -23,7 +23,7 @@ This project focuses on predicting passenger satisfaction with airline services 
    pip install numpy pandas matplotlib
 2. **Run the Project:**
    ```bash
-   python main.py
+   python DT2.py
 3. **Results:**
    - The decision tree structure and relevant information will be printed.
    - Accuracy and other metrics will be displayed based on the testing dataset.
